@@ -65,7 +65,7 @@ nav>#link-section>a
 }
 .links
 {
-    background-image: url(https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/wild-nature-chromebook-wallpaper.jpg);
+    background-image: url(./assets/nature.images.jpg);
     padding: 10px;
     text-align: center;
     display: flex;
