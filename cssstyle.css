@@ -1,0 +1,66 @@
+*
+{
+    margin: 0px;
+}
+nav
+{
+  background-color: rgb(15, 13, 13);
+  justify-content: space-between;
+  display: flex;
+  padding: 7PX;
+}
+nav>h1
+{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-style: bold;
+}
+nav>#link-section>a
+{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+#link-section
+{
+    color: white;
+    display: flex;
+    align-items:center; 
+}
+#landing-image
+{
+    background-image: url("https://www.celebritycruises.com/blog/content/uploads/2022/01/most-beautiful-mountains-in-the-world-kirkjufell-iceland-1024x580.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;   
+}
+#landing-image>#content-selection
+{
+    text-align: center;
+    padding-top: 20%;
+    background-color: rgba(49, 46, 46, 0.5); 
+    height: 565px;
+}
+#content-selection>h1
+{
+    color: white;
+    font-size: 50px;
+    padding: 10px;
+}
+#content-selection>p
+{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+#content-selection>button
+{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgb(83, 23, 23);
+    color: white;
+    border: none;
+    border-radius: 200px;
+}
