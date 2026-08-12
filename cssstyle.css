@@ -65,7 +65,7 @@ nav>#link-section>a
 }
 .links
 {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVDVO9yP0gFWXZh38of0XDAT-uYulFqKomTMMorXyqtg&s=10);
+    background-image: url(https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/wild-nature-chromebook-wallpaper.jpg);
     padding: 10px;
     text-align: center;
     display: flex;
@@ -85,15 +85,16 @@ nav>#link-section>a
     justify-content: row;
     margin-bottom: 10px;
     display: block;
-    background-color: rgba(14, 14, 6, 0.8);
+    background-color: rgba(14, 14, 6, 0.1);
     color: rgb(237, 234, 227);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
 }
 .links>h1
 {
     padding: 10px;
-    background-color: rgb(33, 28, 23,0.2);
+    background-color: rgb(33, 28, 23,0.1);
     color: rgb(237, 234, 227);
-    height: 70px;
+    height: 50px;
 }
 
